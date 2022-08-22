@@ -19,7 +19,7 @@ print("O tipo de dado da variável [qtDeFuncionario] é: ", type(qtDeFuncionario
 print("O tipo de dado da variável [mediaSalario] é: ", type(mediaSalario))
 
 print("---------------------------------------------")
-input("Pressione qualquer tecla...")
+input("Pressione enter...")
 
 
 
