@@ -1,0 +1,6 @@
+filmes.py
+setup.py
+filmes.egg-info/PKG-INFO
+filmes.egg-info/SOURCES.txt
+filmes.egg-info/dependency_links.txt
+filmes.egg-info/top_level.txt
