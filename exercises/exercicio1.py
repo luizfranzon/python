@@ -2,7 +2,7 @@ print("Inicio do programa")
 print("")
 
 Fixo = 500
-Vendas = float(input("Digite o valor de vendas: "))
+Vendas = 12398.00
 Comissao = 6/100
 Fat = Fixo + Vendas * Comissao
 
