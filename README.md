@@ -1,1 +1,1 @@
-# python-college-exercises
+# python
