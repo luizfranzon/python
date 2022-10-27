@@ -7,10 +7,14 @@ class Carro:
         self.cor = cor
 
     def getCarInfo(self):
-        print("Modelo: {modelo} | Cor: {cor}".format(modelo = self.modelo, cor = self.cor))
+        print("\n\nModelo: {modelo} | Cor: {cor}".format(modelo = self.modelo, cor = self.cor))
 
 meuCarro = Carro("Onix", "Azul Escuro")
 
-meuCarro.getCarInfo()
 meuCarro.mudarCor("Vermelho")
 meuCarro.getCarInfo()
+
+
+
+
+
